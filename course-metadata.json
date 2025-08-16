@@ -1,0 +1,27 @@
+{
+  "id": "689fcb304d7c6dd93e8cd448",
+  "title": "Node Express Course",
+  "description": "No description available",
+  "learningObjectives": [
+    "No learning objectives"
+  ],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "planningResources": [],
+    "submissionInstructions": "No submission instructions provided.",
+    "requirements": [
+      "No requirements specified."
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/node-express-course",
+  "remoteGithubUrl": "https://github.com/1992tw/node-express-course-101",
+  "createdAt": "2025-08-16T00:05:04.576Z",
+  "updatedAt": "2025-08-16T00:05:05.866Z",
+  "lessonCount": 17
+}
